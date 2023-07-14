@@ -3,7 +3,7 @@
   "status":"running",
   "name":"Nelson Chamisa",
   "partyName":"CCC"
-  ""partyflag":"https://th.bing.com/th/id/R.b1e2b3584b31290e5387cd388d6fa1aa?rik=W%2fwRv60QM%2b5H4Q&pid=ImgRaw&r=0",
+  "partyflag":"https://th.bing.com/th/id/R.b1e2b3584b31290e5387cd388d6fa1aa?rik=W%2fwRv60QM%2b5H4Q&pid=ImgRaw&r=0",
   "URL":"https://www.facebook.com/CitizensCoalition4Change/"
 },
 {
@@ -11,7 +11,7 @@
   "status":"running",
   "name":"Harry Wilson",
   "partyName":"Democratic Official Party [DOP]"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":"https://wiki.pindula.co.zw/Harry_Peter_Wilson"
 },
 {
@@ -19,7 +19,7 @@
   "status":"running",
   "name":"Joseph Makamba Busha",
   "partyName":"FREEZIM Congress"
-  ""partyflag":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271714813_230062062635198_2360985979259410125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mkT5F_NfF-cAX8nYcBI&_nc_ht=scontent.fhre1-1.fna&oh=00_AfD21USnEDKctzadOushbloLDRqgaVcrGAebR7R0HRmbHw&oe=64B651F6",
+  "partyflag":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271714813_230062062635198_2360985979259410125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mkT5F_NfF-cAX8nYcBI&_nc_ht=scontent.fhre1-1.fna&oh=00_AfD21USnEDKctzadOushbloLDRqgaVcrGAebR7R0HRmbHw&oe=64B651F6",
   "URL":""
 },
 {
@@ -27,7 +27,7 @@
   "status":"running",
   "name":"Saviour Kasukuwere",
   "partyName":"Independent"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -35,7 +35,7 @@
   "status":"running",
   "name":"Douglas Mwonzora",
   "partyName":"MDC"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -43,7 +43,7 @@
   "status":"running",
   "name":"Lovemore Madhuku",
   "partyName":"National Constitutional Assembly [NCA]"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -51,7 +51,7 @@
   "status":"running",
   "name":"Wilbert Archbald Mubaiwa",
   "partyName":"National People's Congress [NPC]"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -59,7 +59,7 @@
   "status":"running",
   "name":"Gwinyai Henry Muzorewa",
   "partyName":"United African National Council [UNAC]"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -67,7 +67,7 @@
   "status":"running",
   "name":"Emmerson D Mnangagwa",
   "partyName":"ZANU PF"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":"https://www.zanupf.org.zw/"
 },
 {
@@ -75,7 +75,7 @@
   "status":"running",
   "name":"Trust Tapiwa Chikohora",
   "partyName":"Zimbabwe Coalition For Peace and Development (ZCPD)"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 {
@@ -83,7 +83,7 @@
   "status":"running",
   "name":"Blessing Kasiyamhuru",
   "partyName":"Zimbabwe Partnership for Prosperity (ZIPP)"
-  ""partyflag":"",
+  "partyflag":"",
   "URL":""
 },
 ]
