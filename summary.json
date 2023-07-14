@@ -1,5 +1,6 @@
 {"summaryData":[
     {
+        "id": 1,
         "Candidates": "ZANU PF(Emmerson D Mnangagwa)",
         "Status": "Running",
         "pictureURL":"",
@@ -14,6 +15,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 2
         "Candidates": "CCC \n(Nelson Chamisa)",
         "Status": "Running",
         "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/272714234_485429922944450_9161594550259865895_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J4P6Ba986TEAX95YeZO&_nc_ht=scontent.fhre1-1.fna&oh=00_AfAsSgnbtH0lgZe5g-0Tdseda3WpZLcbomb4gOTCEhdlNg&oe=64B6BFEA",
@@ -28,6 +30,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 3,
         "Candidates": "MDC\n(Douglas Mwonzora)",
         "Status": "Running",
         "pictureURL":"",
@@ -42,6 +45,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 4,
         "Candidates": "FREEZIM Congress (Joseph Makamba Busha) ",
         "Status": "Running",
         "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/354239309_577030127938388_8827997580235386909_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=Cu8fS8ZQhdkAX8Mzr9p&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCN51Tj7Cj1iji-2Aoprio5Z0HGtq94skZk-ix8Omcwgw&oe=64B68773",
@@ -56,6 +60,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 5,
         "Candidates": "Zimbabwe Coalition For Peace and Development (ZCPD) (Trust Tapiwa Chikohora) ",
         "Status": "Running",
         "pictureURL":"",
@@ -70,6 +75,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 6,
         "Candidates": "Zimbabwe Partnership for Prosperity (ZIPP)\n(Blessing Kasiyamhuru)",
         "Status": "Running",
         "pictureURL":"",
@@ -84,6 +90,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 7,
         "Candidates": "Independent \n(Saviour Kasukuwere)",
         "Status": "Running",
         "pictureURL":"",
@@ -98,6 +105,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 8,
         "Candidates": "National People's Congress [NPC]\n(Wilbert Archbald Mubaiwa)",
         "Status": "Running",
         "pictureURL":"",
@@ -112,6 +120,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 9,
         "Candidates": "United African National Council [UNAC]\n(Gwinyai Henry Muzorewa)",
         "Status": "Running",
         "pictureURL":"",
@@ -126,6 +135,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 10,
         "Candidates": "Democractic Official Party [DOP]\n(Harry Wilson)",
         "Status": "Running",
         "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271673657_232477799064516_5393838583780387389_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VploSQKg7v4AX_Basw8&_nc_ht=scontent.fhre1-1.fna&oh=00_AfC14avCGmeIPf-IzE13r66Kv-lQvb75BWLuETcwEbEnqw&oe=64B6A98C",
@@ -140,6 +150,7 @@
         "denied": "(June) (July) (August)"
     },
     {
+        "id": 11,
         "Candidates": "National Constitutional Assembly [NCA]\n(Lovemore Madhuku)",
         "Status": "Running",
         "pictureURL":"",
