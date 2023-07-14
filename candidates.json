@@ -1,88 +1,99 @@
 {"candidates": [{
+  "id": 1,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/272714234_485429922944450_9161594550259865895_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J4P6Ba986TEAX95YeZO&_nc_ht=scontent.fhre1-1.fna&oh=00_AfAsSgnbtH0lgZe5g-0Tdseda3WpZLcbomb4gOTCEhdlNg&oe=64B6BFEA",
   "status":"running",
   "name":"Nelson Chamisa",
-  "partyName":"CCC"
+  "partyName":"CCC",
   "partyflag":"https://th.bing.com/th/id/R.b1e2b3584b31290e5387cd388d6fa1aa?rik=W%2fwRv60QM%2b5H4Q&pid=ImgRaw&r=0",
   "URL":"https://www.facebook.com/CitizensCoalition4Change/"
 },
 {
+  "id": 2,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271673657_232477799064516_5393838583780387389_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VploSQKg7v4AX_Basw8&_nc_ht=scontent.fhre1-1.fna&oh=00_AfC14avCGmeIPf-IzE13r66Kv-lQvb75BWLuETcwEbEnqw&oe=64B6A98C",
   "status":"running",
   "name":"Harry Wilson",
-  "partyName":"Democratic Official Party [DOP]"
+  "partyName":"Democratic Official Party [DOP]",
   "partyflag":"",
   "URL":"https://wiki.pindula.co.zw/Harry_Peter_Wilson"
 },
 {
+  "id": 3,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/354239309_577030127938388_8827997580235386909_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=Cu8fS8ZQhdkAX8Mzr9p&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCN51Tj7Cj1iji-2Aoprio5Z0HGtq94skZk-ix8Omcwgw&oe=64B68773",
   "status":"running",
   "name":"Joseph Makamba Busha",
-  "partyName":"FREEZIM Congress"
+  "partyName":"FREEZIM Congress",
   "partyflag":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271714813_230062062635198_2360985979259410125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mkT5F_NfF-cAX8nYcBI&_nc_ht=scontent.fhre1-1.fna&oh=00_AfD21USnEDKctzadOushbloLDRqgaVcrGAebR7R0HRmbHw&oe=64B651F6",
   "URL":""
 },
 {
+  "id": 4,
   "pictureURL":"",
   "status":"running",
   "name":"Saviour Kasukuwere",
-  "partyName":"Independent"
+  "partyName":"Independent",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 5,
   "pictureURL":"",
   "status":"running",
   "name":"Douglas Mwonzora",
-  "partyName":"MDC"
+  "partyName":"MDC",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 6,
   "pictureURL":"",
   "status":"running",
   "name":"Lovemore Madhuku",
-  "partyName":"National Constitutional Assembly [NCA]"
+  "partyName":"National Constitutional Assembly [NCA]",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 7,
   "pictureURL":"",
   "status":"running",
   "name":"Wilbert Archbald Mubaiwa",
-  "partyName":"National People's Congress [NPC]"
+  "partyName":"National People's Congress [NPC]",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 8,
   "pictureURL":"",
   "status":"running",
   "name":"Gwinyai Henry Muzorewa",
-  "partyName":"United African National Council [UNAC]"
+  "partyName":"United African National Council [UNAC]",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 9,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/344176921_973278487029155_6901270448353120801_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lDzpoGDQQFIAX9VTY-J&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCYgyLyk5tbgnLjMswxJn9VTsgAGtffLjZ_zJnQ6u77Mg&oe=64B5CE80",
   "status":"running",
   "name":"Emmerson D Mnangagwa",
-  "partyName":"ZANU PF"
+  "partyName":"ZANU PF",
   "partyflag":"",
   "URL":"https://www.zanupf.org.zw/"
 },
 {
+  "id": 10,
   "pictureURL":"",
   "status":"running",
   "name":"Trust Tapiwa Chikohora",
-  "partyName":"Zimbabwe Coalition For Peace and Development (ZCPD)"
+  "partyName":"Zimbabwe Coalition For Peace and Development (ZCPD)",
   "partyflag":"",
   "URL":""
 },
 {
+  "id": 11,
   "pictureURL":"",
   "status":"running",
   "name":"Blessing Kasiyamhuru",
-  "partyName":"Zimbabwe Partnership for Prosperity (ZIPP)"
+  "partyName":"Zimbabwe Partnership for Prosperity (ZIPP)",
   "partyflag":"",
   "URL":""
 }
