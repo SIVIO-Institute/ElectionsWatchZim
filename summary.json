@@ -16,8 +16,8 @@
     },
     {
         "id": 2,
-        "Candidates": "CCC \n(Nelson Chamisa)",
-        "Status": "Barred",
+        "Candidates": "CCC (Nelson Chamisa)",
+        "Status": "Running",
         "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/272714234_485429922944450_9161594550259865895_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J4P6Ba986TEAX95YeZO&_nc_ht=scontent.fhre1-1.fna&oh=00_AfAsSgnbtH0lgZe5g-0Tdseda3WpZLcbomb4gOTCEhdlNg&oe=64B6BFEA",
         "numRallies": "(June) (July) (August)",
         "socialMedia": "(June) (July) (August)",
@@ -31,7 +31,7 @@
     },
     {
         "id": 3,
-        "Candidates": "MDC\n(Douglas Mwonzora)",
+        "Candidates": "MDC (Douglas Mwonzora)",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -61,7 +61,7 @@
     },
     {
         "id": 5,
-        "Candidates": "Zimbabwe Coalition For Peace and Development (ZCPD) (Trust Tapiwa Chikohora) ",
+        "Candidates": "ZCPD (Trust Tapiwa Chikohora) ",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -76,7 +76,7 @@
     },
     {
         "id": 6,
-        "Candidates": "Zimbabwe Partnership for Prosperity (ZIPP)\n(Blessing Kasiyamhuru)",
+        "Candidates": "ZIPP (Blessing Kasiyamhuru)",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -91,7 +91,7 @@
     },
     {
         "id": 7,
-        "Candidates": "Independent \n(Saviour Kasukuwere)",
+        "Candidates": "Independent (Saviour Kasukuwere)",
         "Status": "Pending",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -106,7 +106,7 @@
     },
     {
         "id": 8,
-        "Candidates": "National People's Congress [NPC]\n(Wilbert Archbald Mubaiwa)",
+        "Candidates": "NPC (Wilbert Archbald Mubaiwa)",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -121,7 +121,7 @@
     },
     {
         "id": 9,
-        "Candidates": "United African National Council [UNAC]\n(Gwinyai Henry Muzorewa)",
+        "Candidates": "UNAC (Gwinyai Henry Muzorewa)",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
@@ -136,7 +136,7 @@
     },
     {
         "id": 10,
-        "Candidates": "Democractic Official Party [DOP]\n(Harry Wilson)",
+        "Candidates": "DOP (Harry Wilson)",
         "Status": "Running",
         "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271673657_232477799064516_5393838583780387389_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VploSQKg7v4AX_Basw8&_nc_ht=scontent.fhre1-1.fna&oh=00_AfC14avCGmeIPf-IzE13r66Kv-lQvb75BWLuETcwEbEnqw&oe=64B6A98C",
         "numRallies": "(June) (July) (August)",
@@ -151,7 +151,7 @@
     },
     {
         "id": 11,
-        "Candidates": "National Constitutional Assembly [NCA]\n(Lovemore Madhuku)",
+        "Candidates": "NCA (Lovemore Madhuku)",
         "Status": "Running",
         "pictureURL":"",
         "numRallies": "(June) (July) (August)",
