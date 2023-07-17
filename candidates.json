@@ -1,7 +1,7 @@
 {"candidates": [{
   "id": 1,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/272714234_485429922944450_9161594550259865895_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=J4P6Ba986TEAX95YeZO&_nc_ht=scontent.fhre1-1.fna&oh=00_AfAsSgnbtH0lgZe5g-0Tdseda3WpZLcbomb4gOTCEhdlNg&oe=64B6BFEA",
-  "status":"running",
+  "status":"Running",
   "name":"Nelson Chamisa",
   "partyName":"CCC",
   "partyflag":"https://th.bing.com/th/id/R.b1e2b3584b31290e5387cd388d6fa1aa?rik=W%2fwRv60QM%2b5H4Q&pid=ImgRaw&r=0",
@@ -10,7 +10,7 @@
 {
   "id": 2,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271673657_232477799064516_5393838583780387389_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VploSQKg7v4AX_Basw8&_nc_ht=scontent.fhre1-1.fna&oh=00_AfC14avCGmeIPf-IzE13r66Kv-lQvb75BWLuETcwEbEnqw&oe=64B6A98C",
-  "status":"running",
+  "status":"Running",
   "name":"Harry Wilson",
   "partyName":"Democratic Official Party [DOP]",
   "partyflag":"https://th.bing.com/th/id/R.718cd89534dd056b1d5f4d672ab27f9a?rik=%2fy3ZxwDgGjhWUA&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2f9iR%2f57k%2f9iR57kjxT.png&ehk=ICUT%2b0bTHIeZPtP1%2bUK0KMk%2ftcwcj1SCR4oI0qiBtQc%3d&risl=&pid=ImgRaw&r=0",
@@ -19,7 +19,7 @@
 {
   "id": 3,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/354239309_577030127938388_8827997580235386909_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_ohc=Cu8fS8ZQhdkAX8Mzr9p&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCN51Tj7Cj1iji-2Aoprio5Z0HGtq94skZk-ix8Omcwgw&oe=64B68773",
-  "status":"running",
+  "status":"Running",
   "name":"Joseph Makamba Busha",
   "partyName":"FREEZIM Congress",
   "partyflag":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271714813_230062062635198_2360985979259410125_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mkT5F_NfF-cAX8nYcBI&_nc_ht=scontent.fhre1-1.fna&oh=00_AfD21USnEDKctzadOushbloLDRqgaVcrGAebR7R0HRmbHw&oe=64B651F6",
@@ -28,7 +28,7 @@
 {
   "id": 4,
   "pictureURL":"https://th.bing.com/th/id/R.c873b55316929b2eacee4d5e5e620bc9?rik=qVTTOaP6CFjKcQ&riu=http%3a%2f%2fnehandaradio.com%2fwp-content%2fuploads%2f2016%2f06%2fSaviour-Kasukuwere.jpg&ehk=eEahy5WzpI3bbjQt1ZS1erUJ1kX43zT%2bRuCDGzujS6U%3d&risl=&pid=ImgRaw&r=0",
-  "status":"pending",
+  "status":"Pending",
   "name":"Saviour Kasukuwere",
   "partyName":"Independent",
   "partyflag":"https://th.bing.com/th/id/R.718cd89534dd056b1d5f4d672ab27f9a?rik=%2fy3ZxwDgGjhWUA&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2f9iR%2f57k%2f9iR57kjxT.png&ehk=ICUT%2b0bTHIeZPtP1%2bUK0KMk%2ftcwcj1SCR4oI0qiBtQc%3d&risl=&pid=ImgRaw&r=0",
@@ -37,7 +37,7 @@
 {
   "id": 5,
   "pictureURL":"https://th.bing.com/th/id/R.9356b3e00cd5d9f042d3303a33d90979?rik=zlVYIUov3jEvZw&pid=ImgRaw&r=0",
-  "status":"running",
+  "status":"Running",
   "name":"Douglas Mwonzora",
   "partyName":"MDC",
   "partyflag":"https://pbs.twimg.com/profile_images/1539635927915585540/X_FocJr7_400x400.jpg",
@@ -46,7 +46,7 @@
 {
   "id": 6,
   "pictureURL":"https://wiki.pindula.co.zw/images/c/c2/Madhuku.jpg",
-  "status":"running",
+  "status":"Running",
   "name":"Lovemore Madhuku",
   "partyName":"National Constitutional Assembly [NCA]",
   "partyflag":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/271587046_298422845658562_271125592259164852_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=DQVG0pTGg7wAX8ZMq2n&_nc_ht=scontent.fhre1-1.fna&oh=00_AfDdSgpbFCWtPImfloAORYmLfs4QBv69mE4CeQCoDt16gg&oe=64B85E47",
@@ -55,7 +55,7 @@
 {
   "id": 7,
   "pictureURL":"https://www.pindula.co.zw/_next/image/?url=https%3A%2F%2Fwiki.pindula.co.zw%2Fimages%2Fa%2Fa8%2FWilbert-Mubaiwa.jpg&w=640&q=75",
-  "status":"running",
+  "status":"Runninh",
   "name":"Wilbert Archbald Mubaiwa",
   "partyName":"National People's Congress [NPC]",
   "partyflag":"https://yt3.googleusercontent.com/y9T_3U9uBk0-hy1Tm_sCe7smxYfdMRtkY55seHyQqjApJOW0MbJd4FMRST_dcdIQNcTISRE3ZP8=s176-c-k-c0x00ffffff-no-rj",
@@ -64,7 +64,7 @@
 {
   "id": 8,
   "pictureURL":"https://z9g8vp.c2.acecdn.net/wp-content/uploads/2018/01/GMuzorewa_600x398.jpg",
-  "status":"running",
+  "status":"Running",
   "name":"Gwinyai Henry Muzorewa",
   "partyName":"United African National Council [UNAC]",
   "partyflag":"",
@@ -73,7 +73,7 @@
 {
   "id": 9,
   "pictureURL":"https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/344176921_973278487029155_6901270448353120801_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=lDzpoGDQQFIAX9VTY-J&_nc_ht=scontent.fhre1-1.fna&oh=00_AfCYgyLyk5tbgnLjMswxJn9VTsgAGtffLjZ_zJnQ6u77Mg&oe=64B5CE80",
-  "status":"running",
+  "status":"Running",
   "name":"Emmerson D Mnangagwa",
   "partyName":"ZANU PF",
   "partyflag":"",
@@ -82,7 +82,7 @@
 {
   "id": 10,
   "pictureURL":"https://th.bing.com/th/id/OIP.MKVvXh_ktWVFF08D2_F9XgAAAA?pid=ImgDet&rs=1",
-  "status":"running",
+  "status":"Running",
   "name":"Trust Tapiwa Chikohora",
   "partyName":"Zimbabwe Coalition For Peace and Development (ZCPD)",
   "partyflag":"",
@@ -91,7 +91,7 @@
 {
   "id": 11,
   "pictureURL":"https://th.bing.com/th/id/OIP.zMUmIIki6jA3Vwm9x8g8WwHaE6?pid=ImgDet&rs=1",
-  "status":"running",
+  "status":"Running",
   "name":"Blessing Kasiyamhuru",
   "partyName":"Zimbabwe Partnership for Prosperity (ZIPP)",
   "partyflag":"",
