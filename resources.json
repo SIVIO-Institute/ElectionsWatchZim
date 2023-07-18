@@ -47,6 +47,20 @@
         "PictureURL": "https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/327175403_2965651527077967_2495965529629365318_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=ocQkdnkwHRgAX_L6xn9&_nc_ht=scontent.fhre1-1.fna&oh=00_AfApL5HtLYYfuyZ7KC_-ms9T6y-w1AGv7u2UyZ0UahViBQ&oe=64B7C2A8",
         "URLlink": "https://ercafrica.org/",
         "category": "Media"
+    },
+    {
+        "id": 8,
+        "Title": "The Herald",
+        "PictureURL": "",
+        "URLlink": "https://www.herald.co.zw",
+        "category": "Media"
+    },
+    {
+        "id": 9,
+        "Title": "Newsday",
+        "PictureURL": "",
+        "URLlink": "https://www.newsday.co.zw",
+        "category": "Media"
     }
 ]
 }
