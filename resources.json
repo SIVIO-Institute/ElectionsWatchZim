@@ -23,7 +23,7 @@
     {
         "id": 4,
         "Title": "ZBC News Online",
-        "PictureURL": "https://scontent.fhre1-1.fna.fbcdn.net/v/t39.30808-6/339416984_924231765393747_4143411840666732767_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=RZj6-7RsfsEAX-txIa2&_nc_ht=scontent.fhre1-1.fna&oh=00_AfDsvNOoZVB7Icg1LmRnnn-utsiFtfZWlbpBBmLhdUWXiA&oe=64B61780",
+        "PictureURL": "https://th.bing.com/th/id/OIP.7rorJWdqPfKZsuqJs8Nx9gHaFj?pid=ImgDet&rs=1",
         "URLlink": "https://www.facebook.com/zbcnews",
         "category": "Media"
     },
@@ -51,15 +51,22 @@
     {
         "id": 8,
         "Title": "The Herald",
-        "PictureURL": "",
+        "PictureURL": "https://th.bing.com/th/id/OIP.7rorJWdqPfKZsuqJs8Nx9gHaFj?pid=ImgDet&rs=1",
         "URLlink": "https://www.herald.co.zw",
         "category": "Media"
     },
     {
         "id": 9,
         "Title": "Newsday",
-        "PictureURL": "",
+        "PictureURL": "https://th.bing.com/th/id/OIP.7rorJWdqPfKZsuqJs8Nx9gHaFj?pid=ImgDet&rs=1",
         "URLlink": "https://www.newsday.co.zw",
+        "category": "Media"
+    },
+    {
+        "id": 10,
+        "Title": "Pindula News",
+        "PictureURL": "https://th.bing.com/th/id/OIP.7rorJWdqPfKZsuqJs8Nx9gHaFj?pid=ImgDet&rs=1",
+        "URLlink": "https://www.pindula.co.zw/elections/2023/",
         "category": "Media"
     }
 ]
