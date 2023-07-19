@@ -174,6 +174,22 @@
         "mediaBased": 0,
         "arrests": 0,
         "denied": 0
+    },
+    {
+        "id": 12,
+        "Candidates": "UZA (Elisabeth Valerio)",
+        "Status": "Pending",
+        "pictureURL": "",
+        "numRallies": 0,
+        "socialMedia": "None",
+        "socialURL": "",
+        "promises": 0,
+        "smart": 0,
+        "violence": 0,
+        "rights": 0,
+        "mediaBased": 0,
+        "arrests": 0,
+        "denied": 0
     }
 ]
 }
