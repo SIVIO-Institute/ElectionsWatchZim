@@ -1,6 +1,6 @@
 {"candidates": [{
   "id": 1,
-  "pictureURL":"https://i.ibb.co/zrK8Ggx/1.png",
+  "pictureURL":"https://i.ibb.co/8zjXRKj/1.png",
   "status":"Running",
   "name":"Nelson Chamisa Test",
   "partyName":"CCC",
@@ -9,7 +9,7 @@
 },
 {
   "id": 2,
-  "pictureURL":"https://wiki.pindula.co.zw/images/thumb/2/2f/Harry_Peter_Wilson.jpeg/300px-Harry_Peter_Wilson.jpeg",
+  "pictureURL":"https://i.ibb.co/9n1hK0n/3.png",
   "status":"Running",
   "name":"Harry Wilson",
   "partyName":"Democratic Official Party [DOP]",
@@ -18,7 +18,7 @@
 },
 {
   "id": 3,
-  "pictureURL":"https://www.pindula.co.zw/_next/image/?url=https%3A%2F%2Fwiki.pindula.co.zw%2Fimages%2Fa%2Fa7%2FJoseph-Busha-founder-of-JM-Busha-54-Races-Copy.jpg&w=640&q=75",
+  "pictureURL":"https://i.ibb.co/92WDsV6/4.png" ",
   "status":"Running",
   "name":"Joseph Makamba Busha",
   "partyName":"FREEZIM Congress",
@@ -27,7 +27,7 @@
 },
 {
   "id": 4,
-  "pictureURL":"https://th.bing.com/th/id/R.c873b55316929b2eacee4d5e5e620bc9?rik=qVTTOaP6CFjKcQ&riu=http%3a%2f%2fnehandaradio.com%2fwp-content%2fuploads%2f2016%2f06%2fSaviour-Kasukuwere.jpg&ehk=eEahy5WzpI3bbjQt1ZS1erUJ1kX43zT%2bRuCDGzujS6U%3d&risl=&pid=ImgRaw&r=0",
+  "pictureURL":"https://i.ibb.co/stSk74w/5.png",
   "status":"Pending",
   "name":"Saviour Kasukuwere",
   "partyName":"Independent",
@@ -36,7 +36,7 @@
 },
 {
   "id": 5,
-  "pictureURL":"https://th.bing.com/th/id/R.9356b3e00cd5d9f042d3303a33d90979?rik=zlVYIUov3jEvZw&pid=ImgRaw&r=0",
+  "pictureURL":"https://i.ibb.co/C8LBWVx/6.png",
   "status":"Running",
   "name":"Douglas Mwonzora",
   "partyName":"MDC",
@@ -45,7 +45,7 @@
 },
 {
   "id": 6,
-  "pictureURL":"https://wiki.pindula.co.zw/images/c/c2/Madhuku.jpg",
+  "pictureURL":"https://i.ibb.co/Jkmd7TM/7.png",
   "status":"Running",
   "name":"Lovemore Madhuku",
   "partyName":"National Constitutional Assembly [NCA]",
@@ -54,7 +54,7 @@
 },
 {
   "id": 7,
-  "pictureURL":"https://www.pindula.co.zw/_next/image/?url=https%3A%2F%2Fwiki.pindula.co.zw%2Fimages%2Fa%2Fa8%2FWilbert-Mubaiwa.jpg&w=640&q=75",
+  "pictureURL":"https://i.ibb.co/djfww9r/8.png",
   "status":"Running",
   "name":"Wilbert Archbald Mubaiwa",
   "partyName":"National People's Congress [NPC]",
@@ -63,7 +63,7 @@
 },
 {
   "id": 8,
-  "pictureURL":"https://z9g8vp.c2.acecdn.net/wp-content/uploads/2018/01/GMuzorewa_600x398.jpg",
+  "pictureURL":"https://i.ibb.co/xsN06YM/9.png",
   "status":"Running",
   "name":"Gwinyai Henry Muzorewa",
   "partyName":"United African National Council [UNAC]",
@@ -72,7 +72,7 @@
 },
 {
   "id": 9,
-  "pictureURL":"https://www.telegraph.co.uk/content/dam/news/2017/12/14/TELEMMGLPICT000149333035_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfyf2A9a6I9YchsjMeADBa08.jpeg?imwidth=680",
+  "pictureURL":"https://i.ibb.co/vhRxPvp/2.png",
   "status":"Running",
   "name":"Emmerson D Mnangagwa",
   "partyName":"ZANU PF",
@@ -81,7 +81,7 @@
 },
 {
   "id": 10,
-  "pictureURL":"https://th.bing.com/th/id/OIP.MKVvXh_ktWVFF08D2_F9XgAAAA?pid=ImgDet&rs=1",
+  "pictureURL":"https://i.ibb.co/K0QbRTV/10.png",
   "status":"Running",
   "name":"Trust Tapiwa Chikohora",
   "partyName":"Zimbabwe Coalition For Peace and Development (ZCPD)",
@@ -90,7 +90,7 @@
 },
 {
   "id": 11,
-  "pictureURL":"https://th.bing.com/th/id/OIP.zMUmIIki6jA3Vwm9x8g8WwHaE6?pid=ImgDet&rs=1",
+  "pictureURL":"https://i.ibb.co/2MqqJYN/11.png",
   "status":"Running",
   "name":"Blessing Kasiyamhuru",
   "partyName":"Zimbabwe Partnership for Prosperity (ZIPP)",
