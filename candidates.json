@@ -29,11 +29,11 @@
 {
   "id": 4,
   "pictureURL":"https://i.ibb.co/stSk74w/5.png",
-  "status":"Pending",
+  "status":"Disqualified",
   "name":"Saviour Kasukuwere",
   "partyName":"Independent",
   "partyflag":"https://th.bing.com/th/id/R.718cd89534dd056b1d5f4d672ab27f9a?rik=%2fy3ZxwDgGjhWUA&riu=http%3a%2f%2fwww.clipartbest.com%2fcliparts%2f9iR%2f57k%2f9iR57kjxT.png&ehk=ICUT%2b0bTHIeZPtP1%2bUK0KMk%2ftcwcj1SCR4oI0qiBtQc%3d&risl=&pid=ImgRaw&r=0",
-  "URL":"https://www.saviourkasukuwere.info/"
+  "URL":""
 },
 {
   "id": 5,
@@ -74,7 +74,7 @@
 {
   "id": 12,
   "pictureURL":"https://i.ibb.co/d0dprmt/EWZ-candidates.png",
-  "status":"Pending",
+  "status":"Running",
   "name":"Elisabeth Valerio",
   "partyName":"United Zimbabwe Alliance",
   "partyflag":"",
